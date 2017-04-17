@@ -103,7 +103,6 @@ if d does not equal to a, b and greater than or equals to c
   print
 ```
 
-
 ### Data structure based implementations
 
 #### TaxicabNumbers4.java
@@ -115,6 +114,10 @@ if d does not equal to a, b and greater than or equals to c
 ### 4 Loop vs 3 Loops
 
 ![Loop executions](chart-2.png)
+**X axis :** Maximum number to reach
+**Y axis :** The number of times that the loop executes.
+**Red line :** Four nested loops, brute-force implementation [TaxicabNumbers1](#taxicabnumbers1).
+**Green line :** When we replace the fourth loop with the calculation d³ = a³ + b³ — c³
 
 ### Math.cbrt vs Math.pow
 
