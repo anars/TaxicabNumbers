@@ -29,35 +29,80 @@ The two different ways are:
 
 #### [TaxicabNumbers1](TaxicabNumbers1.java)
 
-This is straight four nested loop implementation. It loops between 1 and maxiumum number, for a, b, c and d. It calculates cubes and compares the results.
+Four nested loops, brute-force implementation by looping though all combinations to find where a³ + b³ = c³ + d³
 
 ```
 for "a" number
-  starting from 1, loop to maximum number
+  loop though all numbers between 1 and maximum number
   calculate a³
 
 for "b" number
-  starting from current a number, loop to maximum - a³ number
+  loop though all numbers between a number and maximum - a³ number
   calculate b³
 
-calculate a³ + b³
-
 for "c" number
-  starting from a + 1 number, loop to a³ + b³ number
+  loop though all numbers between a + 1 number and a³ + b³ number
   calculate c³
 
 for "d" number
-  starting from current a number, loop to a³ + b³ - c³ number
+  loop though all numbers between c number and a³ + b³ - c³ number
   calculate d³
 
 if a³ + b³ equals to d³ + c³
   print
-
 ```
 
-#### TaxicabNumbers2.java
+#### [TaxicabNumbers2](TaxicabNumbers2.java)
 
-#### TaxicabNumbers3.java
+This is same as [TaxicabNumbers1](#taxicabnumbers1) implementation, but calculates d³ using Math.cbrt method, instead of looping though all posibble numbers.
+
+```
+for "a" number
+  loop though all numbers between 1 and maximum number
+  calculate a³
+
+for "b" number
+  loop though all numbers between a number and maximum - a³ number
+  calculate b³
+
+for "c" number
+  loop though all numbers between a + 1 number and a³ + b³ number
+  calculate c³
+
+for "d" number
+  calculate d³ = a³ + b³ - c³ 
+  calculate d using Math.cbrt method
+
+if d does not equal to a, b and greater than or equals to c
+  print
+```
+
+
+#### [TaxicabNumbers3](TaxicabNumbers3.java)
+
+This is same as [TaxicabNumbers2](#taxicabnumbers2) implementation, but calculates d³ using Math.pow method.
+
+```
+for "a" number
+  loop though all numbers between 1 and maximum number
+  calculate a³
+
+for "b" number
+  loop though all numbers between a number and maximum - a³ number
+  calculate b³
+
+for "c" number
+  loop though all numbers between a + 1 number and a³ + b³ number
+  calculate c³
+
+for "d" number
+  calculate d³ = a³ + b³ - c³ 
+  calculate d using Math.pow method
+
+if d does not equal to a, b and greater than or equals to c
+  print
+```
+
 
 ### Data structure based implementations
 
