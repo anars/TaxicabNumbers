@@ -117,17 +117,33 @@ for "b" number
   loop though all numbers between a number and maximum - a³ number
   calculate b³
 
-check if hash table has sum of a³ and b³
-  if yes and pair not marked
+check if table has sum of a³ and b³
+  if yes and pair is not marked
     print
     mark the pair in the table
-   if no
+  if no
     put sum and pair into table
 ```
 
 #### TaxicabNumbers5.java
 This is same as [TaxicabNumbers4](#taxicabnumbers4) implementation, but uses HashMap class.
 
+```
+for "a" number
+  loop though all numbers between 1 and maximum number
+  calculate a³
+
+for "b" number
+  loop though all numbers between a number and maximum - a³ number
+  calculate b³
+
+check if map has sum of a³ and b³
+  if yes and pair is not marked
+    print
+    mark the pair in the map
+  if no
+    put sum and pair into map
+```
 ## Performance
 
 ### 4 Loop vs 3 Loops
