@@ -69,10 +69,8 @@ for "c" number
   loop though all numbers between a + 1 number and a³ + b³ number
   calculate c³
 
-for "d" number
-  calculate d³ = a³ + b³ - c³ 
-  calculate d using Math.cbrt method
-
+calculate d³ = a³ + b³ - c³ 
+calculate d using Math.cbrt method
 if d does not equal to a, b and greater than or equals to c
   print
 ```
@@ -95,10 +93,8 @@ for "c" number
   loop though all numbers between a + 1 number and a³ + b³ number
   calculate c³
 
-for "d" number
-  calculate d³ = a³ + b³ - c³ 
-  calculate d using Math.pow method
-
+calculate d³ = a³ + b³ - c³ 
+calculate d using Math.pow method
 if d does not equal to a, b and greater than or equals to c
   print
 ```
