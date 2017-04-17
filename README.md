@@ -15,8 +15,9 @@ You may check it out first 3883 taxicab numbers at [taxicab-numbers.txt](taxicab
 
 The two different ways are:
 
-> 1729 = 1³ + 12³ = 9³ + 10³
-
+```
+1729 = 1³ + 12³ = 9³ + 10³
+```
 
 ## Implementations
 
