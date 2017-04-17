@@ -114,8 +114,7 @@ if d does not equal to a, b and greater than or equals to c
 ### 4 Loop vs 3 Loops
 
 ![Loop executions](chart-2.png)
-
-**X axis :** Maximum number to reach
+**X axis :** Maximum taxicab number to to calculate
 
 **Y axis :** The number of times that the loop executes.
 
@@ -126,17 +125,23 @@ if d does not equal to a, b and greater than or equals to c
 ### Math.cbrt vs Math.pow
 
 ![Loop execution times in nanoseconds](chart-1.png)
-
-**X axis :** Maximum number to reach
+**X axis :** Maximum taxicab number to to calculate
 
 **Y axis :** Execution time in nano seconds (1,000,000,000 nano seconds is 1 second)
 
 **Red line :** [TaxicabNumbers2](#taxicabnumbers2) implementation which calculates d³ using Math.cbrt method.
 
-**Red line :** [TaxicabNumbers3](#taxicabnumbers3) implementation which calculates d³ using Math.pow method.
+**Blue line :** [TaxicabNumbers3](#taxicabnumbers3) implementation which calculates d³ using Math.pow method.
 
 **Green line :** Four nested loops, brute-force implementation [TaxicabNumbers1](#taxicabnumbers1).
 
 ### HashTable vs HashMap
 
 ![Hashtable and Hashmap execution times in nanoseconds](chart-3.png)
+**X axis :** Maximum taxicab number to to calculate
+
+**Y axis :** Execution time in nano seconds (1,000,000,000 nano seconds is 1 second)
+
+**Red line :** [TaxicabNumbers4](#taxicabnumbers4) implementation which uses HashTable class
+
+**Green line :** [TaxicabNumbers5](#taxicabnumbers5) implementation which uses HashMap class
