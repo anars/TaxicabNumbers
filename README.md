@@ -106,8 +106,27 @@ if d does not equal to a, b and greater than or equals to c
 ### Data structure based implementations
 
 #### TaxicabNumbers4.java
+This implementation stores every combination of the sum of a³ + b³ (key) and [ a, b ] pairs (value) in a hash table, and checks it the sum (key) already in the table.
+
+```
+for "a" number
+  loop though all numbers between 1 and maximum number
+  calculate a³
+
+for "b" number
+  loop though all numbers between a number and maximum - a³ number
+  calculate b³
+
+check if hash table has sum of a³ and b³
+  if yes and pair not marked
+    print
+    mark the pair in the table
+   if no
+    put sum and pair into table
+```
 
 #### TaxicabNumbers5.java
+This is same as [TaxicabNumbers4](#taxicabnumbers4) implementation, but uses HashMap class.
 
 ## Performance
 
