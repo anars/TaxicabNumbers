@@ -23,7 +23,7 @@ The two different ways are:
 
 ### Loop, calculate and compare based implementations
 
-#### TaxicabNumbers1.java
+#### [TaxicabNumbers1](TaxicabNumbers1.java)
 
 #### TaxicabNumbers2.java
 
