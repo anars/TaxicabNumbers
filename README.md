@@ -169,12 +169,14 @@ It seems like Math.cbrt(x) method runs 6-9 nano seconds slower than Math.round(M
 **Green line :** Four nested loops, brute-force implementation [TaxicabNumbers1](#taxicabnumbers1).
 
 ### HashTable vs HashMap
+Data sutructure based implementations are way more efficient than [Loop, calculate and compare based implementations](#loop-calculate-and-compare-based-implementations)
 
-![Hashtable and Hashmap execution times in nanoseconds](chart-3.png)
+However Hastable implementation [TaxicabNumbers4](#taxicabnumbers4) executes 474 to 204,179 nano seconds slower than HashMap impementation [TaxicabNumbers5](#taxicabnumbers5)
+![Hashtable and HashMap execution times in nanoseconds](chart-3.png)
 **X axis :** Maximum taxicab number to to calculate
 
 **Y axis :** Execution time in nano seconds (1,000,000,000 nano seconds is 1 second)
 
-**Red line :** [TaxicabNumbers4](#taxicabnumbers4) implementation which uses HashTable class
+**Red line :** [TaxicabNumbers4](#taxicabnumbers4) implementation which uses Hashtable class
 
 **Green line :** [TaxicabNumbers5](#taxicabnumbers5) implementation which uses HashMap class
