@@ -75,7 +75,6 @@ if d does not equal to a, b and greater than or equals to c
   print
 ```
 
-
 #### [TaxicabNumbers3](TaxicabNumbers3.java)
 
 This is same as [TaxicabNumbers2](#taxicabnumbers2) implementation, but calculates d³ using Math.pow method.
@@ -143,7 +142,7 @@ check if map has sum of a³ and b³
 ## Performance
 
 ### 4 Loop vs 3 Loops
-
+As expected, when we replace the fourth loop with the calculation d³ = a³ + b³ - c³, code compares values %40 to %90 less.
 ![Loop executions](chart-2.png)
 **X axis :** Maximum taxicab number to to calculate
 
@@ -154,7 +153,10 @@ check if map has sum of a³ and b³
 **Green line :** When we replace the fourth loop with the calculation d³ = a³ + b³ - c³
 
 ### Math.cbrt vs Math.pow
+Although code executes 40% to 90% less, when we replace the fourth loop with the calculation d³ = a³ + b³ - c³, Math.cbrt and Math.pow methods are slower than looping though all combinations. Suprisingly Four nested loops, brute-force implementation [TaxicabNumbers1](#taxicabnumbers1) is faster than them.
 
+It seems like Math.cbrt(x) method runs 6-9 nano seconds slower than Math.round(Math.pow(x, 1.0 / 3.0)). So when we run the code to the number 1,092,728, Math.cbrt implementaion [TaxicabNumbers2](#taxicabnumbers2) is 6,897,655
+ nano seconds slower and Math.pow implementation  [TaxicabNumbers3](#taxicabnumbers3).
 ![Loop execution times in nanoseconds](chart-1.png)
 **X axis :** Maximum taxicab number to to calculate
 
