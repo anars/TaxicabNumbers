@@ -216,3 +216,15 @@ Pozitif integer results :
 1 * 7 * 2 - 9 = 5
 1 * 7 * 2 * 9 = 126
 ```
+
+### References throughout Futurama
+
+* In Xmas Story, Bender gets a card stating he is his mother's 1729th son.
+* The Nimbus's registration number is BP-1729.
+* Bender and Flexo both have serial numbers that are the sum of two cubes (either 12 cubed (1728) and 1 cubed (1) or 10 cubed (1000) and 9 cubed (729), depending on how you interpreted it).
+* In The Farnsworth Parabox, one of the universes is Universe 1729.
+* A taxicab in Bender's Big Score is the number 87539319, which is the sum of two positive cubes in 3 ways.
+
+![Nimbus BP-1729](nimbus-bp-1729.png)
+
+The Nimbus (registry BP-1729) is the flagship of the Democratic Order of Planets star fleet and has often been involved in various examples of galactic warfare and other governmental matters. Under the command of 25-Star General Zapp Brannigan, with Lieutenant Kif Kroker as his second in command, the Nimbus has been damaged by enemy forces on several occasions, but each time the ship has been rebuilt in time for Brannigan to lead it to unnecessary danger. 
