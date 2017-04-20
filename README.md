@@ -185,8 +185,6 @@ However Hastable implementation [TaxicabNumbers4](#taxicabnumbers4) executes 474
 
 ### Arithmetic with the digits of Hardy-Ramanujan number
 
-Pozitif integer results :
-
 ```
 1 + 7 + 2 + 9 = 19
 1 + 7 + 2 - 9 = 1
