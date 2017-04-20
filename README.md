@@ -100,7 +100,7 @@ if d does not equal to a, b and greater than or equals to c
 
 ### Data structure based implementations
 
-#### TaxicabNumbers4.java
+#### [TaxicabNumbers4](TaxicabNumbers4.java)
 This implementation stores every combination of the sum of a³ + b³ (key) and [ a, b ] pairs (value) in a hash table, and checks it the sum (key) already in the table.
 
 ```
@@ -120,7 +120,7 @@ check if table has sum of a³ and b³
     put sum and pair into table
 ```
 
-#### TaxicabNumbers5.java
+#### [TaxicabNumbers5](TaxicabNumbers5.java)
 This is same as [TaxicabNumbers4](#taxicabnumbers4) implementation, but uses HashMap class.
 
 ```
@@ -180,3 +180,39 @@ However Hastable implementation [TaxicabNumbers4](#taxicabnumbers4) executes 474
 **Red line :** [TaxicabNumbers4](#taxicabnumbers4) implementation which uses Hashtable class
 
 **Green line :** [TaxicabNumbers5](#taxicabnumbers5) implementation which uses HashMap class
+
+## Fun
+
+### Arithmetic with the digits of Hardy-Ramanujan number
+
+Pozitif integer results :
+
+```
+1 + 7 + 2 + 9 = 19
+1 + 7 + 2 - 9 = 1
+1 + 7 + 2 * 9 = 26
+1 + 7 - 2 + 9 = 15
+1 + 7 - 2 - 9 = -3
+1 + 7 - 2 * 9 = -10
+1 + 7 * 2 + 9 = 24
+1 + 7 * 2 - 9 = 6
+1 + 7 * 2 * 9 = 127
+1 - 7 + 2 + 9 = 5
+1 - 7 + 2 - 9 = -13
+1 - 7 + 2 * 9 = 12
+1 - 7 - 2 + 9 = 1
+1 - 7 - 2 - 9 = -17
+1 - 7 - 2 * 9 = -24
+1 - 7 * 2 + 9 = -4
+1 - 7 * 2 - 9 = -22
+1 - 7 * 2 * 9 = -125
+1 * 7 + 2 + 9 = 18
+1 * 7 + 2 - 9 = 0
+1 * 7 + 2 * 9 = 25
+1 * 7 - 2 + 9 = 14
+1 * 7 - 2 - 9 = -4
+1 * 7 - 2 * 9 = -11
+1 * 7 * 2 + 9 = 23
+1 * 7 * 2 - 9 = 5
+1 * 7 * 2 * 9 = 126
+```
