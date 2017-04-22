@@ -183,38 +183,6 @@ However Hastable implementation [TaxicabNumbers4](#taxicabnumbers4) executes 474
 
 ## Fun
 
-### Arithmetic with the digits of Hardy-Ramanujan number
-
-```
-1 + 7 + 2 + 9 = 19
-1 + 7 + 2 - 9 = 1
-1 + 7 + 2 * 9 = 26
-1 + 7 - 2 + 9 = 15
-1 + 7 - 2 - 9 = -3
-1 + 7 - 2 * 9 = -10
-1 + 7 * 2 + 9 = 24
-1 + 7 * 2 - 9 = 6
-1 + 7 * 2 * 9 = 127
-1 - 7 + 2 + 9 = 5
-1 - 7 + 2 - 9 = -13
-1 - 7 + 2 * 9 = 12
-1 - 7 - 2 + 9 = 1
-1 - 7 - 2 - 9 = -17
-1 - 7 - 2 * 9 = -24
-1 - 7 * 2 + 9 = -4
-1 - 7 * 2 - 9 = -22
-1 - 7 * 2 * 9 = -125
-1 * 7 + 2 + 9 = 18
-1 * 7 + 2 - 9 = 0
-1 * 7 + 2 * 9 = 25
-1 * 7 - 2 + 9 = 14
-1 * 7 - 2 - 9 = -4
-1 * 7 - 2 * 9 = -11
-1 * 7 * 2 + 9 = 23
-1 * 7 * 2 - 9 = 5
-1 * 7 * 2 * 9 = 126
-```
-
 ### References throughout Futurama
 
 * In Xmas Story, Bender gets a card stating he is his mother's 1729th son.
