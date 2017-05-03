@@ -190,7 +190,8 @@ However Hastable implementation [TaxicabNumbers4](#taxicabnumbers4) executes 474
 * In The Farnsworth Parabox, one of the universes is Universe 1729.
 * A taxicab in Bender's Big Score is the number 87539319, which is the sum of two positive cubes in 3 ways.
 
-* The Nimbus's registration number is BP-1729.
+#### The Nimbus's registration number is BP-1729.
 ![Nimbus BP-1729](nimbus-bp-1729.png)
+Episode : Love's labour's lost in space (1999)
 
 The Nimbus (registry BP-1729) is the flagship of the Democratic Order of Planets star fleet and has often been involved in various examples of galactic warfare and other governmental matters. Under the command of 25-Star General Zapp Brannigan, with Lieutenant Kif Kroker as his second in command, the Nimbus has been damaged by enemy forces on several occasions, but each time the ship has been rebuilt in time for Brannigan to lead it to unnecessary danger. 
