@@ -199,8 +199,12 @@ The Nimbus (registry BP-1729) is the flagship of the Democratic Order of Planets
 
 Episode : Xmas story (1999)
 
-#### Bender and Flexo both have serial numbers that are the sum of two cubes (either 12 cubed (1728) and 1 cubed (1) or 10 cubed (1000) and 9 cubed (729), depending on how you interpreted it).
+#### Bender and Flexo both have serial numbers that are the sum of two cubes.
 ![Bender and Flexo](bender-and-flexo.png)
+
+Bender Bending Rodriguez (Model: bending unit 22) is a bending unit (Serial number is 2716057. This can be expressed as the sum of 2 cubes. Specifically, 952³ + (-951)³), who works at Planet Express as Assistant Manager of Sales, formerly chef of the company. He is one of the primary characters and is known for his "in-your-face interface". 
+
+Flexo is a Bending Unit robot of model #22 (Serial Number is 3370318, a number expressible as the sum of two cubes (119³ + 119³)), the same model as and therefore identical to Bender in almost every possible respect, except that he has a stylish metal goatee attached.
 
 Episode : The lesser of two evils (2000)
 
@@ -209,9 +213,11 @@ Episode : The lesser of two evils (2000)
 
 Episode : The farnsworth parabox (2003)
 
+The parallel universe where everyone has bobble-heads is called Universe 1729. Inhabitants say impolite things and speaking seems to set them in motion. The Parallel Universe Boxes here are pink.
+
 #### A taxicab in Bender's Big Score is the number 87539319, which is the sum of two positive cubes in 3 ways.
 ![Taxicab 87539319](taxicab-87539319.png)
 
 Episode : Bender's big score (2007)
 
-
+The number of the taxi (Chineese Checker Cab Co) Fry entered in 2012 is 87539319, which is the sum of two positive cubes in 3 ways. This is a reference to the incident with Hardy and Ramanujan. 
