@@ -23,6 +23,8 @@ The two different ways are:
 1729 = 1³ + 12³ = 9³ + 10³
 ```
 
+![Taxicab CE1729](taxicab-ce1729.png)
+
 ## Implementations
 
 ### Loop, calculate and compare based implementations
