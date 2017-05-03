@@ -199,6 +199,8 @@ The Nimbus (registry BP-1729) is the flagship of the Democratic Order of Planets
 
 Episode : Xmas story (1999)
 
+Bender's mother is a robotic arm who works in a factory building bending units such as Bender and Flexo. Bender is her 1729th "son". She sent him a card for Xmas saying "Merry Xmas son #1729". In 3012, Bender told his son that he inherited his arm control software from her. She is, apparently, a religious fundamentalist, and never taught Bender about robot reproduction.
+
 #### Bender and Flexo both have serial numbers that are the sum of two cubes.
 ![Bender and Flexo](bender-and-flexo.png)
 
