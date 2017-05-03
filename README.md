@@ -25,6 +25,8 @@ The two different ways are:
 
 ![Taxicab CE1729](taxicab-ce1729.png)
 
+The Man Who Knew Infinity (2016)
+
 ## Implementations
 
 ### Loop, calculate and compare based implementations
@@ -204,11 +206,11 @@ Bender's mother is a robotic arm who works in a factory building bending units s
 #### Bender and Flexo both have serial numbers that are the sum of two cubes.
 ![Bender and Flexo](bender-and-flexo.png)
 
+Episode : The lesser of two evils (2000)
+
 Bender Bending Rodriguez (Model: bending unit 22) is a bending unit (Serial number is 2716057. This can be expressed as the sum of 2 cubes. Specifically, 952³ + (-951)³), who works at Planet Express as Assistant Manager of Sales, formerly chef of the company. He is one of the primary characters and is known for his "in-your-face interface". 
 
 Flexo is a Bending Unit robot of model #22 (Serial Number is 3370318, a number expressible as the sum of two cubes (119³ + 119³)), the same model as and therefore identical to Bender in almost every possible respect, except that he has a stylish metal goatee attached.
-
-Episode : The lesser of two evils (2000)
 
 #### In The Farnsworth Parabox, one of the universes is Universe 1729.
 ![Universe 1729](universe-1729.png)
@@ -222,4 +224,4 @@ The parallel universe where everyone has bobble-heads is called Universe 1729. I
 
 Episode : Bender's big score (2007)
 
-The number of the taxi (Chineese Checker Cab Co) Fry entered in 2012 is 87539319, which is the sum of two positive cubes in 3 ways. This is a reference to the incident with Hardy and Ramanujan. 
+The number of the taxi (Chineese Checker Cab Co) Fry entered in 2012 is 87539319, which is the sum of two positive cubes in 3 ways. (87,539,319 = 167³ + 436³ = 228³ + 423³ = 255³ + 414³)
