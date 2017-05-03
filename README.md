@@ -185,13 +185,31 @@ However Hastable implementation [TaxicabNumbers4](#taxicabnumbers4) executes 474
 
 ### References throughout Futurama
 
-* In Xmas Story, Bender gets a card stating he is his mother's 1729th son.
-* Bender and Flexo both have serial numbers that are the sum of two cubes (either 12 cubed (1728) and 1 cubed (1) or 10 cubed (1000) and 9 cubed (729), depending on how you interpreted it).
-* In The Farnsworth Parabox, one of the universes is Universe 1729.
-* A taxicab in Bender's Big Score is the number 87539319, which is the sum of two positive cubes in 3 ways.
-
 #### The Nimbus's registration number is BP-1729.
 ![Nimbus BP-1729](nimbus-bp-1729.png)
+
 Episode : Love's labour's lost in space (1999)
 
 The Nimbus (registry BP-1729) is the flagship of the Democratic Order of Planets star fleet and has often been involved in various examples of galactic warfare and other governmental matters. Under the command of 25-Star General Zapp Brannigan, with Lieutenant Kif Kroker as his second in command, the Nimbus has been damaged by enemy forces on several occasions, but each time the ship has been rebuilt in time for Brannigan to lead it to unnecessary danger. 
+
+#### In Xmas Story, Bender gets a card stating he is his mother's 1729th son.
+![Merry Xmas Son #1729](merry-xmas-son-1729.png)
+
+Episode : Xmas story (1999)
+
+#### Bender and Flexo both have serial numbers that are the sum of two cubes (either 12 cubed (1728) and 1 cubed (1) or 10 cubed (1000) and 9 cubed (729), depending on how you interpreted it).
+![Bender and Flexo](bender-and-flexo.png)
+
+Episode : The lesser of two evils (2000)
+
+#### In The Farnsworth Parabox, one of the universes is Universe 1729.
+![Universe 1729](universe-1729.png)
+
+Episode : The farnsworth parabox (2003)
+
+#### A taxicab in Bender's Big Score is the number 87539319, which is the sum of two positive cubes in 3 ways.
+![Taxicab 87539319](taxicab-87539319.png)
+
+Episode : Bender's big score (2007)
+
+
